@@ -1,0 +1,268 @@
+Urutan Skenario Tugas Akhir
+ - Parameter (Order dan Scale)
+ - Plam  dan Palm+finger
+ - Seluruh dan Perblock
+ 
+Skenario A
+
+Skenario 1 :
+	- Order = 2
+	- Scale = 1
+	- Palm
+	- Perblock
+Skenario 2 :
+	- Order = 2
+	- Scale = 2
+	- Palm
+	- Perblock
+Skenario 3 :
+	- Order = 2
+	- Scale = 3
+	- Palm
+	- Perblock
+Skenario 4 :
+	- Order = 2
+	- Scale = 4
+	- Palm
+	- Perblock
+Skenario 5 :
+	- Order = 2
+	- Scale = 5
+	- Palm
+	- Perblock
+Skenario 6 :
+	- Order = 2
+	- Scale = 6
+	- Palm
+	- Perblock
+	
+Skenario B
+
+Skenario 1 :
+	- Order = 2
+	- Scale = 1
+	- Palm
+	- Seluruh
+Skenario 2 :
+	- Order = 2
+	- Scale = 2
+	- Palm
+	- Seluruh
+Skenario 3 :
+	- Order = 2
+	- Scale = 3
+	- Palm
+	- Seluruh
+Skenario 4 :
+	- Order = 2
+	- Scale = 4
+	- Palm
+	- Seluruh
+Skenario 5 :
+	- Order = 2
+	- Scale = 5
+	- Palm
+	- Seluruh
+Skenario 6 :
+	- Order = 2
+	- Scale = 6
+	- Palm
+	- Seluruh
+	
+Skenario C
+
+Skenario 1 :
+	- Order = 3
+	- Scale = 1
+	- Palm
+	- Perblock
+Skenario 2 :
+	- Order = 3
+	- Scale = 2
+	- Palm
+	- Perblock
+Skenario 3 :
+	- Order = 3
+	- Scale = 3
+	- Palm
+	- Perblock
+Skenario 4 :
+	- Order = 3
+	- Scale = 4
+	- Palm
+	- Perblock
+Skenario 5 :
+	- Order = 3
+	- Scale = 5
+	- Palm
+	- Perblock
+Skenario 6 :
+	- Order = 3
+	- Scale = 6
+	- Palm
+	- Perblock
+	
+Skenario D
+
+Skenario 1 :
+	- Order = 3
+	- Scale = 1
+	- Palm
+	- Seluruh
+Skenario 2 :
+	- Order = 3
+	- Scale = 2
+	- Palm
+	- Seluruh
+Skenario 3 :
+	- Order = 3
+	- Scale = 3
+	- Palm
+	- Seluruh
+Skenario 4 :
+	- Order = 3
+	- Scale = 4
+	- Palm
+	- Seluruh
+Skenario 5 :
+	- Order = 3
+	- Scale = 5
+	- Palm
+	- Seluruh
+Skenario 6 :
+	- Order = 3
+	- Scale = 6
+	- Palm
+	- Seluruh
+	
+Skenario E
+
+Skenario 1 :
+	- Order = 2
+	- Scale = 1
+	- Palm+finger
+	- Perblock
+Skenario 2 :
+	- Order = 2
+	- Scale = 2
+	- Palm+finger
+	- Perblock
+Skenario 3 :
+	- Order = 2
+	- Scale = 3
+	- Palm+finger
+	- Perblock
+Skenario 4 :
+	- Order = 2
+	- Scale = 4
+	- Palm+finger
+	- Perblock
+Skenario 5 :
+	- Order = 2
+	- Scale = 5
+	- Palm+finger
+	- Perblock
+Skenario 6 :
+	- Order = 2
+	- Scale = 6
+	- Palm+finger
+	- Perblock
+	
+Skenario F
+
+Skenario 1 :
+	- Order = 2
+	- Scale = 1
+	- Palm+finger
+	- Seluruh
+Skenario 2 :
+	- Order = 2
+	- Scale = 2
+	- Palm+finger
+	- Seluruh
+Skenario 3 :
+	- Order = 2
+	- Scale = 3
+	- Palm+finger
+	- Seluruh
+Skenario 4 :
+	- Order = 2
+	- Scale = 4
+	- Palm+finger
+	- Seluruh
+Skenario 5 :
+	- Order = 2
+	- Scale = 5
+	- Palm+finger
+	- Seluruh
+Skenario 6 :
+	- Order = 2
+	- Scale = 6
+	- Palm+finger
+	- Seluruh
+	
+Skenario G
+
+Skenario 1 :
+	- Order = 3
+	- Scale = 1
+	- Palm+finger
+	- Perblock
+Skenario 2 :
+	- Order = 3
+	- Scale = 2
+	- Palm+finger
+	- Perblock
+Skenario 3 :
+	- Order = 3
+	- Scale = 3
+	- Palm+finger
+	- Perblock
+Skenario 4 :
+	- Order = 3
+	- Scale = 4
+	- Palm+finger
+	- Perblock
+Skenario 5 :
+	- Order = 3
+	- Scale = 5
+	- Palm+finger
+	- Perblock
+Skenario 6 :
+	- Order = 3
+	- Scale = 6
+	- Palm+finger
+	- Perblock
+	
+Skenario D
+
+Skenario 1 :
+	- Order = 3
+	- Scale = 1
+	- Palm+finger
+	- Seluruh
+Skenario 2 :
+	- Order = 3
+	- Scale = 2
+	- Palm+finger
+	- Seluruh
+Skenario 3 :
+	- Order = 3
+	- Scale = 3
+	- Palm+finger
+	- Seluruh
+Skenario 4 :
+	- Order = 3
+	- Scale = 4
+	- Palm+finger
+	- Seluruh
+Skenario 5 :
+	- Order = 3
+	- Scale = 5
+	- Palm+finger
+	- Seluruh
+Skenario 6 :
+	- Order = 3
+	- Scale = 6
+	- Palm+finger
+	- Seluruh

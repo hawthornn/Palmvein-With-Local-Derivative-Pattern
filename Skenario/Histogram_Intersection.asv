@@ -1,0 +1,9 @@
+function [result] = Histogram_Intersection(train,test)
+    htrain = sum(hist(train,256),2); %
+    htest = sum(hist(test,256),2);
+    k = 0;
+    for i=1:size(train,1)
+        k = k + min(htrain(i),htest(i)); 
+    end
+    result = k/sum(htest(2:end,:));
+end
